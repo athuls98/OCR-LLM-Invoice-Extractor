@@ -1,6 +1,5 @@
 import pymupdf
 
-
 def extract_text_from_pdf(file_path):
     document = pymupdf.open(file_path)
 
