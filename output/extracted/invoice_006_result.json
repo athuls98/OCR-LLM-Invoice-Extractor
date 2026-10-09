@@ -1,0 +1,11 @@
+{
+    "invoice": {
+        "invoice_number": "INV-2026-003",
+        "invoice_date": "October 6, 2026",
+        "vendor_name": "OCR SOLUTIONS LLC",
+        "subtotal": 430.0,
+        "tax": 36.0,
+        "total": 466.0,
+        "currency": "USD"
+    }
+}
